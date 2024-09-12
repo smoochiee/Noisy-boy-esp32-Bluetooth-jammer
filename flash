@@ -88,6 +88,9 @@
           <label><input type="radio" name="type" value="Ble1" /> Single Nrf24l01 Vspi (SCK = 18, MISO =19, MOSI = 23 ,CS =21 ,CE = 22)</label>
         </li>
         <li>
+   <li>
+          <label><input type="radio" name="type" value="Ble2" /> NONE </label>
+        </li>
     
 		
      
