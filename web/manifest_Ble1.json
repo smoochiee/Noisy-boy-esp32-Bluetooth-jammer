@@ -5,9 +5,9 @@
       "chipFamily": "ESP32",
       "improv": false,
       "parts": [
-        { "path": "Bjammersingle.ino.bootloader.bin", "offset": 4096 },
-        { "path": "Bjammersingle.ino.partitions.bin", "offset": 32768 },
-        { "path": "Bjammersingle.ino.bin", "offset": 65536 }
+        { "path": "noisy.ino.bootloader.bin", "offset": 4096 },
+        { "path": "noisy.ino.partitions.bin", "offset": 32768 },
+        { "path": "noisy.ino.bin", "offset": 65536 }
       ]
     },
     {
