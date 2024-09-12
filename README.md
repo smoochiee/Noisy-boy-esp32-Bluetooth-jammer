@@ -13,7 +13,7 @@ Click Webflasher to Flash code
 
 
 # DEMO
-[DEMO video](https://ph.shp.ee/995sg2d?smtt=0.0.9)
+[DEMO video](https://vt.tiktok.com/ZS2mkctCM/)
 
 
 # Features
