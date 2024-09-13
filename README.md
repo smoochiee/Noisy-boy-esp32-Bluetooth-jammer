@@ -47,12 +47,12 @@ Click Webflasher to Flash code
 
 PLUG YOUR ESP32 TO COMPUTER AND FOLLOW VIDEO
 
-[Wiring video Tiktok](NOT YET)
+[Upload using Webflasher](NOT YET)
 
 
 ## SETUP AFTER WEBFLASHER
 
-[Wiring video Tiktok](NOT YET)
+[Setup After you Use Webflasher](NOT YET)
 
 
 ## BUTTON FUNCTION
