@@ -39,30 +39,39 @@ Click Webflasher to Flash code
 
 
  
- ## WIRING VIDEO INSTRUCTION
+ ## STEP 1 WIRING VIDEO INSTRUCTION
 [Wiring video Tiktok](https://vt.tiktok.com/ZS2mhHxwg/)
 
 
-## UPLOADING TO WEBFLASHER
+## STEP 2 UPLOADING TO WEBFLASHER
 
 PLUG YOUR ESP32 TO COMPUTER AND FOLLOW VIDEO
 
-[Upload using Webflasher](NOT YET)
+[Upload using Webflasher](https://www.tiktok.com/@smoochiee89/video/7413955755163847943?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 
 
-## SETUP AFTER WEBFLASHER
+## 3 SETUP AFTER WEBFLASHER
 
-[Setup After you Use Webflasher](NOT YET)
+WIFI NAME : Noisy boy
+Password: madapaka
+
+[Setup After you Use Webflasher](https://www.tiktok.com/@smoochiee89/video/7413968367964458260?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
+
+## LED INDICATOR
+[LED](https://www.tiktok.com/@smoochiee89/video/7413986381719948564?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 
 
 ## BUTTON FUNCTION
-1.[WIFI DEAUTHER](NOTYET)
+
+BOOT BUTTOM (GPIO 0)
+
+1.[BUTTON FUNCTION](https://www.tiktok.com/@smoochiee89/video/7413990152793558279?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 
 ## FEATURES EXPLAIN:
-1. [WIFI DEAUTHER](NOTYET)
-2. [CHANNEL SKIP](NOTYET)
+1. [WIFI DEAUTHER](https://www.tiktok.com/@smoochiee89/video/7413981169454288148?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
+2. [CHANNEL SKIP](https://www.tiktok.com/@smoochiee89/video/7413998582639889684?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 3. [SET UP NRF RADIO](NOTYET)
-4. [SETUP CHANNEL TO JAM](NOTYET)
+4. [SETUP CHANNEL TO JAM](https://www.tiktok.com/@smoochiee89/video/7414045377399180565?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 
 
 ## RC CHANNEL?...
@@ -71,7 +80,7 @@ Most rc operates on lower freqeuncy and if it happen to use a 2.4ghz they will n
 ## WIFI CHANNEL?...
 ![ymo5p](https://github.com/user-attachments/assets/7e87ac33-c439-40a4-a5bf-891e97545918)
 Frequency of wifi on top and Frequency of nrf on bottom
-When you run the jammer it will disconnect you on wifi due to this reason in picture...lol
+When you run the jammer it will disconnect you on wifi due to this reason in picture...
 
 
 
@@ -88,7 +97,7 @@ or
 
 
 
-# Although I'm not a great developer, I do give credit to others and appreciate them.
+# Although I'm not a great developer, I do give credit to others and appreciate them.Especially to those who help you....
 
 ## Credits 
 
