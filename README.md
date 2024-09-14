@@ -38,6 +38,9 @@ Click Webflasher to Flash code
 3. [Female to female jumper cable](https://ph.shp.ee/pvbwzxh?smtt=0.0.9)
 
 
+
+# STEPS TO FOLLOW / INSTRUCTION 
+---
  
  ## STEP 1 WIRING VIDEO INSTRUCTION
 [Wiring video Tiktok](https://vt.tiktok.com/ZS2mhHxwg/)
@@ -50,27 +53,27 @@ PLUG YOUR ESP32 TO COMPUTER AND FOLLOW VIDEO
 [Upload using Webflasher](https://www.tiktok.com/@smoochiee89/video/7413955755163847943?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 
 
-## 3 SETUP AFTER WEBFLASHER
+## STEP 3 SETUP AFTER WEBFLASHER
 
 WIFI NAME : Noisy boy
 Password: madapaka
 
 [Setup After you Use Webflasher](https://www.tiktok.com/@smoochiee89/video/7413968367964458260?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
-
+--- 
 ## LED INDICATOR
 [LED](https://www.tiktok.com/@smoochiee89/video/7413986381719948564?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 
-
+---
 ## BUTTON FUNCTION
 
 BOOT BUTTOM (GPIO 0)
 
 1.[BUTTON FUNCTION](https://www.tiktok.com/@smoochiee89/video/7413990152793558279?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
-
+---
 ## FEATURES EXPLAIN:
 1. [WIFI DEAUTHER](https://www.tiktok.com/@smoochiee89/video/7413981169454288148?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 2. [CHANNEL SKIP](https://www.tiktok.com/@smoochiee89/video/7413998582639889684?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
-3. [SET UP NRF RADIO](NOTYET)
+3. [SET UP NRF RADIO](https://www.tiktok.com/@smoochiee89/video/7414343023418428690?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 4. [SETUP CHANNEL TO JAM](https://www.tiktok.com/@smoochiee89/video/7414045377399180565?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 
 
