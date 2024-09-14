@@ -59,6 +59,13 @@ WIFI NAME : Noisy boy
 Password: madapaka
 
 [Setup After you Use Webflasher](https://www.tiktok.com/@smoochiee89/video/7413968367964458260?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
+
+IF YOU DONT KNOW WHAT TO PUT HERE FOLLOW
+![RF24 SETTINGS](https://github.com/user-attachments/assets/64500350-6481-466d-969b-02d534a5b36c)
+CLICK SAVE
+
+![CHANNEL SETTINGS](https://github.com/user-attachments/assets/9847bcfb-8ea7-4b3c-a0e4-6511b6e02e39)
+CLICK SAVE
 --- 
 ## LED INDICATOR
 [LED](https://www.tiktok.com/@smoochiee89/video/7413986381719948564?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
