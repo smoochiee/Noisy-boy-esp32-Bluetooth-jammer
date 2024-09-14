@@ -2,7 +2,7 @@
 ![a](https://github.com/user-attachments/assets/4e11c46b-b2b4-4505-91b3-af24706f13ca)
 
 # Noisy-boy-esp32-Bluetooth-jammer
-Bluetooth jammer using esp32 with webserver
+Bluetooth jammer using esp32 with webserver allow user to test nrf24
 
 
 
@@ -43,14 +43,14 @@ Click Webflasher to Flash code
 ---
  
  ## STEP 1 WIRING VIDEO INSTRUCTION
-[Wiring video Tiktok](https://vt.tiktok.com/ZS2mhHxwg/)
+[Wiring video Tiktok](https://vt.tiktok.com/ZS2mhHxwg/) VIDEO
 
 
 ## STEP 2 UPLOADING TO WEBFLASHER
 
 PLUG YOUR ESP32 TO COMPUTER AND FOLLOW VIDEO
 
-[Upload using Webflasher](https://www.tiktok.com/@smoochiee89/video/7413955755163847943?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
+[Upload using Webflasher](https://www.tiktok.com/@smoochiee89/video/7413955755163847943?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232) VIDEO
 
 
 ## STEP 3 SETUP AFTER WEBFLASHER
@@ -58,29 +58,33 @@ PLUG YOUR ESP32 TO COMPUTER AND FOLLOW VIDEO
 WIFI NAME : Noisy boy
 Password: madapaka
 
-[Setup After you Use Webflasher](https://www.tiktok.com/@smoochiee89/video/7413968367964458260?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
+[Setup After you Use Webflasher](https://www.tiktok.com/@smoochiee89/video/7413968367964458260?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232) VIDEO
 
 IF YOU DONT KNOW WHAT TO PUT HERE FOLLOW
 ![RF24 SETTINGS](https://github.com/user-attachments/assets/64500350-6481-466d-969b-02d534a5b36c)
-CLICK SAVE
+* CLICK SAVE
 
 ![CHANNEL SETTINGS](https://github.com/user-attachments/assets/9847bcfb-8ea7-4b3c-a0e4-6511b6e02e39)
-CLICK SAVE
+* CLICK SAVE
 --- 
 ## LED INDICATOR
-[LED](https://www.tiktok.com/@smoochiee89/video/7413986381719948564?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
+[LED](https://www.tiktok.com/@smoochiee89/video/7413986381719948564?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232) VIDEO
 
 ---
 ## BUTTON FUNCTION
 
 BOOT BUTTOM (GPIO 0)
 
-1.[BUTTON FUNCTION](https://www.tiktok.com/@smoochiee89/video/7413990152793558279?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
+1.[BUTTON FUNCTION](https://www.tiktok.com/@smoochiee89/video/7413990152793558279?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)VIDEO
 ---
 ## FEATURES EXPLAIN:
 1. [WIFI DEAUTHER](https://www.tiktok.com/@smoochiee89/video/7413981169454288148?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 2. [CHANNEL SKIP](https://www.tiktok.com/@smoochiee89/video/7413998582639889684?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 3. [SET UP NRF RADIO](https://www.tiktok.com/@smoochiee89/video/7414343023418428690?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
+  *THIS SOMETIMES IMPROVE RANGE
+  * [DATA RATE ](https://nrf24.github.io/RF24/group__Datarate.html)
+  * [LOW NOISE AMPLIFIER](https://en.wikipedia.org/wiki/Low-noise_amplifier)
+  * [POWER AMPLIFIER LEVEL](https://nrf24.github.io/RF24/group__PALevel.html)
 4. [SETUP CHANNEL TO JAM](https://www.tiktok.com/@smoochiee89/video/7414045377399180565?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 
 
