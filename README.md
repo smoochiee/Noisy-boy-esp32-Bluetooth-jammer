@@ -75,7 +75,8 @@ BOOT BUTTOM (GPIO 0)
 ## FEATURES EXPLAIN:
 1. [WIFI DEAUTHER](https://www.tiktok.com/@smoochiee89/video/7413981169454288148?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 2. [USER EDIT JAM](https://vt.tiktok.com/ZS2q9bPYd/)
-3. [SET UP NRF RADIO](https://www.tiktok.com/@smoochiee89/video/7414343023418428690?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
+3. [SET UP NRF
+*THIS SOMETIMES IMPROVE RANGE RADIO](https://www.tiktok.com/@smoochiee89/video/7414343023418428690?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
   *THIS SOMETIMES IMPROVE RANGE
   * [DATA RATE ](https://nrf24.github.io/RF24/group__Datarate.html)
   * [LOW NOISE AMPLIFIER](https://en.wikipedia.org/wiki/Low-noise_amplifier)
