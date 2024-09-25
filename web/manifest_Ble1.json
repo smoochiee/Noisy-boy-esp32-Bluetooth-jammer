@@ -6,7 +6,7 @@
       "improv": false,
       "parts": [
      
-        { "path": "target.bin", "offset": 65536 }
+        { "path": "target.bin", "offset": 0 }
       ]
     },
     {
