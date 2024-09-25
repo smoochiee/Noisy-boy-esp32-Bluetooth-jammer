@@ -27,7 +27,7 @@ Click Webflasher to Flash code
 ## REQUIRED DEVICE AND MODULE:
 
 1. 1 Esp32 wroom 30 pin
-2. 1 Nrf24l01 PA LNA
+2. 1 or 2 Nrf24l01 PA LNA
 3. 7 Jummper wire female to female
 
 
@@ -60,12 +60,7 @@ Password: madapaka
 
 [Setup After you Use Webflasher](https://vt.tiktok.com/ZS2q9WAGe) VIDEO
 
-IF YOU DONT KNOW WHAT TO PUT HERE FOLLOW
-![RF24 SETTINGS](https://github.com/user-attachments/assets/64500350-6481-466d-969b-02d534a5b36c)
-* CLICK SAVE
 
-![CHANNEL SETTINGS](https://github.com/user-attachments/assets/9847bcfb-8ea7-4b3c-a0e4-6511b6e02e39)
-* CLICK SAVE
 --- 
 ## LED INDICATOR
 [LED](https://www.tiktok.com/@smoochiee89/video/7413986381719948564?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232) VIDEO
@@ -79,13 +74,12 @@ BOOT BUTTOM (GPIO 0)
 ---
 ## FEATURES EXPLAIN:
 1. [WIFI DEAUTHER](https://www.tiktok.com/@smoochiee89/video/7413981169454288148?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
-2. [CHANNEL SKIP](https://www.tiktok.com/@smoochiee89/video/7413998582639889684?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
+2. [USER EDIT JAM](https://vt.tiktok.com/ZS2q9bPYd/)
 3. [SET UP NRF RADIO](https://www.tiktok.com/@smoochiee89/video/7414343023418428690?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
   *THIS SOMETIMES IMPROVE RANGE
   * [DATA RATE ](https://nrf24.github.io/RF24/group__Datarate.html)
   * [LOW NOISE AMPLIFIER](https://en.wikipedia.org/wiki/Low-noise_amplifier)
   * [POWER AMPLIFIER LEVEL](https://nrf24.github.io/RF24/group__PALevel.html)
-4. [SETUP CHANNEL TO JAM](https://www.tiktok.com/@smoochiee89/video/7414045377399180565?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 
 
 ## RC CHANNEL?...
