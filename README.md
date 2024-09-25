@@ -58,7 +58,7 @@ PLUG YOUR ESP32 TO COMPUTER AND FOLLOW VIDEO
 WIFI NAME : Noisy boy
 Password: madapaka
 
-[Setup After you Use Webflasher](https://www.tiktok.com/@smoochiee89/video/7413968367964458260?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232) VIDEO
+[Setup After you Use Webflasher](https://vt.tiktok.com/ZS2q9WAGe) VIDEO
 
 IF YOU DONT KNOW WHAT TO PUT HERE FOLLOW
 ![RF24 SETTINGS](https://github.com/user-attachments/assets/64500350-6481-466d-969b-02d534a5b36c)
