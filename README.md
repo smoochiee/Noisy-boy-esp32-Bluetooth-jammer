@@ -33,7 +33,7 @@ Click Webflasher to Flash code
 
 * 1 Esp32 wroom 30 pin
 * 1 or 2 Nrf24l01 PA LNA
-* 7 Jummper wire female to female
+* 14 Jummper wire female to female
 
 
 ## Shoppee link where to buy:
