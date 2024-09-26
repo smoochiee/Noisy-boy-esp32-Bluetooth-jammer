@@ -38,9 +38,9 @@ Click Webflasher to Flash code
 
 ## Shoppee link where to buy:
 
-1. [NRF24l01](https://ph.shp.ee/995sg2d?smtt=0.0.9)
-2. [Esp32 30 pin](https://ph.shp.ee/5biyof5?smtt=0.0.9)
-3. [Female to female jumper cable](https://ph.shp.ee/pvbwzxh?smtt=0.0.9)
+* [NRF24l01](https://ph.shp.ee/995sg2d?smtt=0.0.9)
+*  [Esp32 30 pin](https://ph.shp.ee/5biyof5?smtt=0.0.9)
+* [Female to female jumper cable](https://ph.shp.ee/pvbwzxh?smtt=0.0.9)
 
 
 
@@ -78,7 +78,8 @@ BOOT BUTTOM (GPIO 0)
 * [BUTTON FUNCTION](https://www.tiktok.com/@smoochiee89/video/7413990152793558279?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)VIDEO
 ---
 ## FEATURES EXPLAIN:
-* [WIFI DEAUTHER](https://www.tiktok.com/@smoochiee89/video/7413981169454288148?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)* [USER EDIT JAM](https://vt.tiktok.com/ZS2q9bPYd/)
+* [WIFI DEAUTHER](https://www.tiktok.com/@smoochiee89/video/7413981169454288148?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
+* [USER EDIT JAM](https://vt.tiktok.com/ZS2q9bPYd/)
 * [SET UP NRF
  RADIO](https://www.tiktok.com/@smoochiee89/video/7414343023418428690?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 *THIS SOMETIMES IMPROVE RANGE if powersupply or spi have noise
