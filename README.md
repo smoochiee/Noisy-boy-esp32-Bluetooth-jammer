@@ -75,7 +75,7 @@ PLUG YOUR ESP32 TO COMPUTER AND FOLLOW VIDEO
 
 BOOT BUTTOM (GPIO 0)
 
-*[BUTTON FUNCTION](https://www.tiktok.com/@smoochiee89/video/7413990152793558279?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)VIDEO
+* [BUTTON FUNCTION](https://www.tiktok.com/@smoochiee89/video/7413990152793558279?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)VIDEO
 ---
 ## FEATURES EXPLAIN:
 * [WIFI DEAUTHER](https://www.tiktok.com/@smoochiee89/video/7413981169454288148?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)* [USER EDIT JAM](https://vt.tiktok.com/ZS2q9bPYd/)
@@ -98,8 +98,8 @@ When you run the jammer it will disconnect you on wifi due to this reason in pic
 
 
 # DONATION
-**If you like you can donate to MY PAYPAL ACCOUNT :**
-**The donation will be used to test microcontrollers and various electronic components.  **
+* If you like you can donate to MY PAYPAL ACCOUNT :
+* The donation will be used to test microcontrollers and various electronic components.  
 
 [PAYPAL](https://paypal.me/smoochieelee?country.x=PH&locale.x=en_US)
 or
