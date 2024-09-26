@@ -20,17 +20,20 @@ Click Webflasher to Flash code
 
 # Features
 
-1.Bluetooth jammer Can set channels and skip channels
-2.wifi deauther single and deauth all
+1.Bluetooth jammer Can set channels to attacks
+2.Wifi deauther single and deauth all
 3.Allow user to setup nrf24l01 module for experiment
+4.Scan 2.4ghz spectrum
+5.Pre configure attacks
+6.You can use single or 2 nrfs
 
 
 
 ## REQUIRED DEVICE AND MODULE:
 
-1. 1 Esp32 wroom 30 pin
-2. 1 or 2 Nrf24l01 PA LNA
-3. 7 Jummper wire female to female
+* 1 Esp32 wroom 30 pin
+* 1 or 2 Nrf24l01 PA LNA
+* 7 Jummper wire female to female
 
 
 ## Shoppee link where to buy:
@@ -57,8 +60,8 @@ PLUG YOUR ESP32 TO COMPUTER AND FOLLOW VIDEO
 
 ## STEP 3 SETUP AFTER WEBFLASHER
 
-WIFI NAME : Noisy boy
-Password: madapaka
+* WIFI NAME : Noisy boy
+* Password: madapaka
 
 [Setup After you Use Webflasher](https://vt.tiktok.com/ZS2q9WAGe) VIDEO
 
@@ -72,12 +75,11 @@ Password: madapaka
 
 BOOT BUTTOM (GPIO 0)
 
-1.[BUTTON FUNCTION](https://www.tiktok.com/@smoochiee89/video/7413990152793558279?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)VIDEO
+*[BUTTON FUNCTION](https://www.tiktok.com/@smoochiee89/video/7413990152793558279?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)VIDEO
 ---
 ## FEATURES EXPLAIN:
-1. [WIFI DEAUTHER](https://www.tiktok.com/@smoochiee89/video/7413981169454288148?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
-2. [USER EDIT JAM](https://vt.tiktok.com/ZS2q9bPYd/)
-3. [SET UP NRF
+* [WIFI DEAUTHER](https://www.tiktok.com/@smoochiee89/video/7413981169454288148?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)* [USER EDIT JAM](https://vt.tiktok.com/ZS2q9bPYd/)
+* [SET UP NRF
  RADIO](https://www.tiktok.com/@smoochiee89/video/7414343023418428690?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232)
 *THIS SOMETIMES IMPROVE RANGE if powersupply or spi have noise
   * [DATA RATE ](https://nrf24.github.io/RF24/group__Datarate.html)
@@ -110,10 +112,14 @@ or
 
 # Although I'm not a great developer, I do give credit to others and appreciate them.Especially to those who help you....
 
+## Donations 
+* Sok Ponleu
+
+
 ## Credits 
 
 
-1.   [Tesa klebeband](https://github.com/tesa-klebeband)
-2.   [Bmorcelli]([https://github.com/tesa-klebeband](https://github.com/bmorcelli))
+*   [Tesa klebeband](https://github.com/tesa-klebeband)
+* [Bmorcelli](https://github.com/bmorcelli)
 
 
