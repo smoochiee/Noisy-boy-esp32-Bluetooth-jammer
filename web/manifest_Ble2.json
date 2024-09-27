@@ -1,13 +1,13 @@
 {
-  "name": "Ble2",
+  "name": "test",
   "builds": [
     {
       "chipFamily": "ESP32",
       "improv": false,
       "parts": [
-        { "path": "Bjammerdual.ino.bootloader.bin", "offset": 4096 },
-        { "path": "Bjammerdual.ino.partitions.bin", "offset": 32768 },
-        { "path": "Bjammerdual.ino.bin", "offset": 65536 }
+        { "path": "tes.ino.bootloader.bin", "offset": 4096 },
+        { "path": "tes.ino.partitions.bin", "offset": 32768 },
+        { "path": "tes.ino.bin", "offset": 65536 }
       ]
     },
     {
