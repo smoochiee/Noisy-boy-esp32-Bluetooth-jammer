@@ -6,7 +6,7 @@ Bluetooth jammer using esp32 with webserver allow user to test nrf24
 
 ## Version Number: initial release 1.0
 
-current version: 1.2
+#  current version: 1.3
 
 Click Webflasher to Flash code
 [WEBFLASHER](https://smoochiee.github.io/Noisy-boy-esp32-Bluetooth-jammer/flash)
