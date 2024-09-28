@@ -5,9 +5,9 @@
       "chipFamily": "ESP32",
       "improv": false,
       "parts": [
-        { "path": "buttonhspi.ino.bootloader.bin", "offset": 4096 },
-        { "path": "buttonhspi.ino.partitions.bin", "offset": 32768 },
-        { "path": "buttonhspi.ino.bin", "offset": 65536 }
+        { "path": "whitenoise.ino.bootloader.bin", "offset": 4096 },
+        { "path": "whitenoise.ino.partitions.bin", "offset": 32768 },
+        { "path": "whitenoise.ino.bin", "offset": 65536 }
       ]
     },
     {
