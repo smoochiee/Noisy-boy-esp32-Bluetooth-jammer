@@ -11,6 +11,12 @@ Bluetooth jammer using esp32 with webserver allow user to test nrf24
 Click Webflasher to Flash code
 [WEBFLASHER](https://smoochiee.github.io/Noisy-boy-esp32-Bluetooth-jammer/flash)
 
+Note!!!If your having trouble with webflasher use this flasher https://esp.huhn.me/
+
+[Download bin here](https://drive.google.com/drive/folders/13cM8WRz8HHXuicDLaxfERslyFuzxRw95?usp=drive_link)
+
+
+
 ---
 
 
@@ -50,12 +56,24 @@ Click Webflasher to Flash code
  ## STEP 1 WIRING VIDEO INSTRUCTION
 [Wiring video Tiktok](https://vt.tiktok.com/ZS2mhHxwg/) VIDEO
 
+![316725930-ba7c2991-1542-4296-8b8c-8011c2bc8e77](https://github.com/user-attachments/assets/e65b6f68-08e3-41d5-9945-28d768eab7cf)
+
+* FOR DUAL/TWO NRF24L01
+ * 3.3V=VCC  GND=GROUND HSPI= SCK = 14, MISO = 12, MOSI = 13, CS = 15 , CE = 16
+   * 3.3V=VCC  GND=GROUND VSPI= SCK = 18, MISO =19, MOSI = 23 ,CS =21 ,CE = 22
+* FOR SINGLE/ONE NRF24L01 YOU CAN CHOOSE BETWEEN HSPI OR VSPI
+ * 3.3V=VCC  GND=GROUND VSPI= SCK = 18, MISO =19, MOSI = 23 ,CS =21 ,CE = 22
+   * 3.3V=VCC  GND=GROUND  HSPI= SCK = 14, MISO = 12, MOSI = 13, CS = 15 , CE = 16
+
 
 ## STEP 2 UPLOADING TO WEBFLASHER
 
 PLUG YOUR ESP32 TO COMPUTER AND FOLLOW VIDEO
 
 [Upload using Webflasher](https://www.tiktok.com/@smoochiee89/video/7413955755163847943?is_from_webapp=1&sender_device=pc&web_id=7406626786861385232) VIDEO
+
+
+
 
 
 ## STEP 3 SETUP AFTER WEBFLASHER
