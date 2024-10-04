@@ -11,7 +11,10 @@ Bluetooth jammer using esp32 with webserver allow user to test nrf24
 Click Webflasher to Flash code
 [WEBFLASHER](https://smoochiee.github.io/Noisy-boy-esp32-Bluetooth-jammer/flash)
 
-Note!!!If your having trouble with webflasher use this flasher https://esp.huhn.me/
+Note!!!If your having trouble with webflasher use this flasher https://esp.huhn.me/  and follow the picture...
+
+![esp huhn](https://github.com/user-attachments/assets/dea93d82-1f3e-4c6b-9fd0-88205792e72a)
+
 
 [Download bin here](https://drive.google.com/drive/folders/13cM8WRz8HHXuicDLaxfERslyFuzxRw95?usp=drive_link)
 
@@ -56,14 +59,31 @@ Note!!!If your having trouble with webflasher use this flasher https://esp.huhn.
  ## STEP 1 WIRING VIDEO INSTRUCTION
 [Wiring video Tiktok](https://vt.tiktok.com/ZS2mhHxwg/) VIDEO
 
-![316725930-ba7c2991-1542-4296-8b8c-8011c2bc8e77](https://github.com/user-attachments/assets/e65b6f68-08e3-41d5-9945-28d768eab7cf)
+![316725930-ba7c2991-1542-4296-8b8c-8011c2bc8e77](https://github.com/user-attachments/assets/2eda5c3c-843f-427f-8967-ff948f7b31f0)
 
-* FOR DUAL/TWO NRF24L01
- * 3.3V=VCC  GND=GROUND HSPI= SCK = 14, MISO = 12, MOSI = 13, CS = 15 , CE = 16
-   * 3.3V=VCC  GND=GROUND VSPI= SCK = 18, MISO =19, MOSI = 23 ,CS =21 ,CE = 22
-* FOR SINGLE/ONE NRF24L01 YOU CAN CHOOSE BETWEEN HSPI OR VSPI
- * 3.3V=VCC  GND=GROUND VSPI= SCK = 18, MISO =19, MOSI = 23 ,CS =21 ,CE = 22
-   * 3.3V=VCC  GND=GROUND  HSPI= SCK = 14, MISO = 12, MOSI = 13, CS = 15 , CE = 16
+
+![nrf](https://github.com/user-attachments/assets/0925bcad-5da9-4b5b-8263-1537b2578b7c)
+
+---
+1. FOR DUAL/TWO NRF24L01
+ * HSPI PINS 
+ * 3.3V=VCC
+ *  GND=GROUND
+ * HSPI SCK = 14
+ * HSPI MISO = 12
+ * HSPI MOSI = 13
+ *  HSPI HCS = 15
+ *  HSPI CE = 16
+ *  ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+ *    VSPI PINS
+ * 3.3V=VCC
+ * GND=GROUND
+ * VSPI SCK = 18
+ *  VSPI MISO =19
+ *  VSPI MOSI = 23
+ *  VSPI CS =21
+ *  VSPI CE = 22
+2. FOR SINGLE/ONE NRF24L01 YOU CAN CHOOSE BETWEEN HSPI OR VSPI
 
 
 ## STEP 2 UPLOADING TO WEBFLASHER
