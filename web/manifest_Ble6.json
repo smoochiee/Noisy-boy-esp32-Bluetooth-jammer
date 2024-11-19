@@ -6,7 +6,7 @@
       "improv": false,
       "parts": [
      
-        { "path": "unknown.bin", "offset": 0 }
+        { "path": "diy.bin", "offset": 0 }
       ]
     },
     {
